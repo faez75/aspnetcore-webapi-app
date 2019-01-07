@@ -6,7 +6,7 @@ This Repository consist of Zip files and database files
 
 [Details]
 1. ASP.Net Core Web API Project Module Files
-- This project module consist of Data Model preparation which is using CRUD Applied  DB Generation via 'Package Manager Console'
+- This project module consist of Web API Services Library file and Data Model preparation (CRUD and table Generation via 'Package Manager Console' base on model data structure)
 
 2. ASP.Net Core Application with Angular 7 Project Module File
 - This Project module consist of ASP.Net Core project with Angular, bootstrap, CSS and those required files.
